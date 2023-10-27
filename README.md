@@ -1,4 +1,4 @@
-# brainwave
+# brainwave Quiz Master
 My First Browser-Based Project Game way back in 2016
 - HTML, CSS, and Javascript formats.
 - Compose of PHP (MVC and OOP style) and Material CSS.
